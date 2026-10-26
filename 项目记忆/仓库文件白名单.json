@@ -303,8 +303,8 @@
     },
     {
       "path": "项目记忆/仓库状态.json",
-      "bytes": 835,
-      "sha256": "e99fb2b009cf4ca036070ce1ffec0ac9415967b87f8ed418285d21862fb97647",
+      "bytes": 1408,
+      "sha256": "608688aebe4814242b9086d2f4d9a4fdd7d572fa62478ebe7beacfb95621d154",
       "role": "agent_memory"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "path": "HANDOFF.md",
-      "bytes": 4095,
-      "sha256": "2a277bf38d83562e32dd8a415712c0f1ff90f2955189b9a173b43976d3f11339",
+      "bytes": 4388,
+      "sha256": "49252ffa9b93c52c56796bea31a042d742f638930294c8206995fb7d98156fe5",
       "role": "repository_entry"
     },
     {

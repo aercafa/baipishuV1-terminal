@@ -4,11 +4,15 @@
   "target_url": "https://github.com/aercafa/baipishuV1-terminal",
   "scope": "four_terminal_whitepaper_only",
   "svg_generation_included": false,
-  "local_preparation": "ready_for_audit",
-  "remote_upload": "ready_for_git_authenticated_upload",
-  "last_connector_result": "GitHub plugin returned 404 for both URL forms. Existing Git credential-manager access succeeded with ls-remote and remote show; repository has no refs.",
+  "local_preparation": "audited_and_isolated_clone_verified",
+  "remote_upload": "uploaded_content_commit_verified",
+  "branch": "codex/whitepaper-handoff-20261026",
+  "last_connector_result": "GitHub plugin returned 404; upload used existing Git credential-manager authentication. Initial transport failed, final HTTPS upload succeeded and ls-remote verified the content commit.",
   "remote_visibility": "not_publicly_accessible_via_unauthenticated_api; settings_not_changed",
-  "uploaded_commit": null,
+  "uploaded_commit": "02a764b0b463eadd11e03457036ff6c27faa67c4",
+  "uploaded_commit_note": "Verified initial content commit; a subsequent small bookkeeping commit updates this status and the manifest. Read the current branch HEAD for the latest commit.",
+  "tracked_file_count": 58,
+  "audit": "57 file hashes plus the manifest; 40 scene headings and 11 drawing instances in unchanged V2 Word; isolated local clone passed",
   "cloud_environment": "not_created",
-  "next_action": "Finish local audit, then verify connector access after user authorizes target repository. Do not mark uploaded without remote verification."
+  "next_action": "Continue from root HANDOFF on another computer, or separately configure a Codex cloud environment after repository access is available in that surface. No V3 body or SVG generation is authorized by migration alone."
 }
