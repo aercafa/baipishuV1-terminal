@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-10-26",
+  "target_repository": "aercafa/baipishuV1-terminal",
+  "target_url": "https://github.com/aercafa/baipishuV1-terminal",
+  "scope": "four_terminal_whitepaper_only",
+  "svg_generation_included": false,
+  "local_preparation": "ready_for_audit",
+  "remote_upload": "ready_for_git_authenticated_upload",
+  "last_connector_result": "GitHub plugin returned 404 for both URL forms. Existing Git credential-manager access succeeded with ls-remote and remote show; repository has no refs.",
+  "remote_visibility": "not_publicly_accessible_via_unauthenticated_api; settings_not_changed",
+  "uploaded_commit": null,
+  "cloud_environment": "not_created",
+  "next_action": "Finish local audit, then verify connector access after user authorizes target repository. Do not mark uploaded without remote verification."
+}

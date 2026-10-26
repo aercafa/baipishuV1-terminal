@@ -1,0 +1,44 @@
+# 本仓库仅接收显式范围。被排除文件仍保留在本地。
+/*
+!/.gitignore
+!/.gitattributes
+!/AGENTS.md
+!/README.md
+!/HANDOFF.md
+!/项目记忆/
+!/交接报告/
+!/白皮书/
+!/tools/
+
+# 本项目内容类型
+/tools/*
+!/tools/project_audit.py
+!/tools/extract_docx_snapshot.py
+/项目记忆/*
+!/项目记忆/*.md
+!/项目记忆/*.json
+/交接报告/*
+!/交接报告/*.md
+!/交接报告/assets/
+!/交接报告/体验研究/
+/交接报告/assets/*
+!/交接报告/assets/*.png
+!/交接报告/assets/*.jpg
+
+# 不接收生成工程与可执行的历史覆盖脚本
+**/*.svg
+**/*.py
+!/tools/project_audit.py
+!/tools/extract_docx_snapshot.py
+**/*.ps1
+**/*.mjs
+**/__pycache__/
+**/_qa*/
+**/~$*
+**/.env
+**/.env.*
+**/node_modules/
+**/workflow_state.json
+**/workflow_lock.json
+/白皮书/V2/场景SVG生成进度.md
+/白皮书/V2/等距轴测场景说明图制作方法流程和计划_20261020.md

@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "prepared_at": "2026-10-26",
+  "repository": "aercafa/baipishuV1-terminal",
+  "root_policy": "Preserve workspace-relative paths; explicit allowlist only; no source deletion",
+  "authoritative_historical_word": "白皮书/V2/文博数字体验解决方案_V2_初稿_20261022.docx",
+  "svg_generation_included": false,
+  "excluded": [
+    "SVG generation project, queues, skills, state and workflow guides",
+    "Rhino AI modeling and plugin development",
+    "Historical overwriting builders and exporter scripts",
+    "Render caches, tmp, _handover_work, unrelated skills and credentials"
+  ],
+  "strict_link_files": [
+    "AGENTS.md",
+    "README.md",
+    "HANDOFF.md",
+    "项目记忆/项目长期记忆.md",
+    "项目记忆/决策与口径演变.md",
+    "项目记忆/配置基线与待核实项.md",
+    "项目记忆/资料索引与版本关系.md",
+    "项目记忆/仓库配置与跨电脑接续说明.md",
+    "项目记忆/V2现存Word文字快照_20261026.md",
+    "交接报告/四款信息交互终端项目去噪复盘报告_20261009_整理版.md",
+    "白皮书/V3/HANDOFF.md"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 93,
+      "sha256": "5b3069b3cca9115f0c17b0c294944140a742a882243363b6cc089d143e1840b0",
+      "role": "repository_entry"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 896,
+      "sha256": "7e595c68b925b801aa514ba6a1e91bed442d73fbbc6a7a2e0e278b665d71613c",
+      "role": "repository_entry"
+    },
+    {
+      "path": "白皮书/文博交互信息终端产品族白皮书_图片位档案_V1_20261016.md",
+      "bytes": 35309,
+      "sha256": "f77870734279fe41ddaa54cd0f91b9a8254fee592369f1cf841b1f3cd259f6d5",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/文博交互信息终端产品族白皮书_V0.1_20261015.md",
+      "bytes": 40843,
+      "sha256": "4ccf47d98d210016e7803468854d7f75578005e85670413e792984cfdc732983",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/文博交互信息终端产品族白皮书_V1_20261016.docx",
+      "bytes": 78105,
+      "sha256": "1765e72d4e7762a0f8e264afe665ccaf829e2cc03b00f7dc1cf98527a50eb68d",
+      "role": "historical_word"
+    },
+    {
+      "path": "白皮书/文博交互信息终端产品族白皮书_V1_20261016.md",
+      "bytes": 39167,
+      "sha256": "52b19fc4f0194b02d2b80a6b5190d14bdfb2c16c871d601124e2d5eb17252355",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/10个重点场景文字分镜_20261020.md",
+      "bytes": 9214,
+      "sha256": "722f2c098a5acc4b41f862f552001fa528a508de0e57bb1a5eda8b623ba3e4a0",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/19个储备场景索引_20261020.md",
+      "bytes": 2839,
+      "sha256": "490d9d95b12b9f6e3f9fee9d2d733845752be77bf939925e1ab7335ff49216c2",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/21个入选场景方案与软硬件交付清单_20261020.md",
+      "bytes": 16795,
+      "sha256": "b0651cc0db44c69f5f0996802d9b6516cec575c0daea39a6ceb18b201c7a305e",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/40个典型应用场景候选库_20261020.md",
+      "bytes": 7599,
+      "sha256": "117d81f493a8ba3c3b120ad9f0ed16e18231ca397ab1253d1271662dfb124bab",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/50个场景案例待选池_网站增量优化_20261020.md",
+      "bytes": 29224,
+      "sha256": "534977b5862fff4c76e6afacf7620299a779eaf6feca634e997177f5eec1d8e0",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/场景配图_正方形/01_S04_滑轨展柜透视屏_square.png",
+      "bytes": 131388,
+      "sha256": "d2f46d368ab63067d773dd0b7435bf562787323b73b341c8e78ee2767ad00e74",
+      "role": "existing_document_image"
+    },
+    {
+      "path": "白皮书/V2/场景配图_正方形/02_S01_唐代服饰数字换装站_square.png",
+      "bytes": 115581,
+      "sha256": "8ccb72a5408070c4d35bc3b0cc1f62aff5e87306fd5afe444e44c5e70c1b1027",
+      "role": "existing_document_image"
+    },
+    {
+      "path": "白皮书/V2/场景配图_正方形/03_S03_沙盘方位观察终端_square.png",
+      "bytes": 104489,
+      "sha256": "2b86678ab266a044778617e04ec2144bc133c908f7af2745c7bd51c9d802a085",
+      "role": "existing_document_image"
+    },
+    {
+      "path": "白皮书/V2/场景配图_正方形/04_S41_实体信物触发叙事台_square.png",
+      "bytes": 129943,
+      "sha256": "252e68d70635f91b0fd812aebdb4995f77991b2fe222f944005d5786d05c7700",
+      "role": "existing_document_image"
+    },
+    {
+      "path": "白皮书/V2/场景配图_正方形/05_S09_纹饰识别旋钮台_square.png",
+      "bytes": 109426,
+      "sha256": "2ac7799698165014b159e7e8b6ac42395dc4d32abe4b2e45c0174151e5e702a2",
+      "role": "existing_document_image"
+    },
+    {
+      "path": "白皮书/V2/场景配图_正方形/06_S13_NFC研学任务站_square.png",
+      "bytes": 41954,
+      "sha256": "b5bd2613dd2a8611540fa00cacfac11edcb409c970d690ecf02e9d090694fb54",
+      "role": "existing_document_image"
+    },
+    {
+      "path": "白皮书/V2/场景优先级清单_第一轮确认_20261021.md",
+      "bytes": 8606,
+      "sha256": "3acb2f4c55362bb0ffbd9651123426e1a0b888e4033f406872b0e97ecc1d2f76",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/文博数字体验解决方案_V2_20261020_rev2.pdf",
+      "bytes": 287265,
+      "sha256": "225c83a43cfd9fa1950a913910c9b19d90248837a453529fef5be8d1a7c95bab",
+      "role": "historical_pdf"
+    },
+    {
+      "path": "白皮书/V2/文博数字体验解决方案_V2_20261020.docx",
+      "bytes": 75554,
+      "sha256": "ab5195ba1ab0539d9b990352cb9c971979cb553b6f407e696964a17764137045",
+      "role": "historical_word"
+    },
+    {
+      "path": "白皮书/V2/文博数字体验解决方案_V2_20261020.md",
+      "bytes": 67370,
+      "sha256": "3c40f5da6b952a28a9efd6237624d9c73e0a9b2cec2803e66843623579316ced",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/文博数字体验解决方案_V2_20261020.pdf",
+      "bytes": 287265,
+      "sha256": "225c83a43cfd9fa1950a913910c9b19d90248837a453529fef5be8d1a7c95bab",
+      "role": "historical_pdf"
+    },
+    {
+      "path": "白皮书/V2/文博数字体验解决方案_V2_场景章节编排稿_20261022.md",
+      "bytes": 18207,
+      "sha256": "c2326fb2e55a33a2f65509bf97ed3db0cb1abfd0e47c93b5be1d56c81690fd81",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/文博数字体验解决方案_V2_初稿_20261022.docx",
+      "bytes": 872296,
+      "sha256": "403a8e2036c2aca090899a7dbee2e1764fd52f2913ce9324dc3928493bfff347",
+      "role": "historical_word"
+    },
+    {
+      "path": "白皮书/V2/V2白皮书框架、页码与信息层级_20261020.md",
+      "bytes": 10050,
+      "sha256": "b91554e8f0a34456d9ee75f3f4b9b07194f3a3c6b5a3417e4477fdb2d67c1b0f",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V2/V2图片位与视觉资产档案_20261020.md",
+      "bytes": 11550,
+      "sha256": "6ac7eea4588a2cbc6a2a20c022e5f448a0ae363a77d2fcbbe636fb4029f30cbb",
+      "role": "historical_whitepaper_text"
+    },
+    {
+      "path": "白皮书/V3/HANDOFF.md",
+      "bytes": 9873,
+      "sha256": "6ce90f236c53eb0f93aaa3e8bad8f63f33f3925e5f528a342f06e4cc0d62547e",
+      "role": "latest_direction_not_body"
+    },
+    {
+      "path": "白皮书/V3/V2阶段总结与V3方向修正_20261023.md",
+      "bytes": 10171,
+      "sha256": "f021d2849035226a7d004745f54d242fcae083d59fb318b5358478f1c3bcec6c",
+      "role": "latest_direction_not_body"
+    },
+    {
+      "path": "白皮书/V3/V3编制框架与输出计划_20261023.md",
+      "bytes": 9969,
+      "sha256": "7da1c83cd7910a0c2838391e3c1cbaeae2fcbd9e75576ed4f9846bb4b80151ab",
+      "role": "latest_direction_not_body"
+    },
+    {
+      "path": "交接报告/触摸终端产品族全项目调研总报告_20261015.md",
+      "bytes": 30683,
+      "sha256": "dd892c0882a28ba0428f42470f4d73c91e5f7773b6c5518b3e9f69d14defb9a8",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/触摸终端产品族四款产品交接报告.md",
+      "bytes": 76837,
+      "sha256": "79dbdd69d1ac9191cb12463bcaff469decce519ffd53a8ae20af40a8c81796c4",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/进度同步_终端产品定义与界面布局方案_20260814.md",
+      "bytes": 37623,
+      "sha256": "89d288f793d3c80ff9d21aa0923424b93d810010423dddeffb3c75cc355af00c",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/四款信息交互终端项目去噪复盘报告_20261009_整理版.md",
+      "bytes": 4800,
+      "sha256": "aed98907c6b628c7bf8225abe42c43752cb6d86b888c3154b0a403fefe15a904",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/体验研究/博物馆触摸终端_交互信息观众行为总结_V1.md",
+      "bytes": 15657,
+      "sha256": "4de08e506f10f0bb014f9a91835479c17a2465162ed546d233469d7061f54ca9",
+      "role": "experience_research"
+    },
+    {
+      "path": "交接报告/体验研究/Museum_Interactive_Terminal_User_Journey_Map_V1.md",
+      "bytes": 12578,
+      "sha256": "864644ad7b827ff58795eba9dd0fc88f87477929dd684a1f43dea6c83104ca83",
+      "role": "experience_research"
+    },
+    {
+      "path": "交接报告/assets/触摸终端产品族分类线框图-preview.png",
+      "bytes": 60038,
+      "sha256": "5da94303c0c0bce91e10e4934f3192370a6cbe78eff4b454bfe21c4fced608e7",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/terminal-215.jpg",
+      "bytes": 834294,
+      "sha256": "9fa82f86bf1ba29e78b8c56e80e8445cb75e36bf18fe7997c4b3f4902eed7b86",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/terminal-29.png",
+      "bytes": 206527,
+      "sha256": "3abcfb8dbab7b42c489c963a143b87525abe33b7a5ce702ff7fafbd18e7583ba",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/terminal-43-bar.jpg",
+      "bytes": 2529087,
+      "sha256": "fcd7f1272581b9dfd39b2055bdac8857b42d59d242b0e3bb9a9bf1361c5fe7da",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/terminal-43-standard.jpg",
+      "bytes": 1112980,
+      "sha256": "cccdef86ea83939647c38e3dd64712f83d2fcf46d0b125893086deb90423000f",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/terminal-S43.png",
+      "bytes": 385509,
+      "sha256": "a936a2df50d625006a7af77b3c940adbd5d6247df71db4357cfcfa1da4df1cf8",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/topology-215.png",
+      "bytes": 23878,
+      "sha256": "fc1b3347907805a041b43ebf63faa699764a74201720714c21d325d00e69dd04",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/topology-29.png",
+      "bytes": 23206,
+      "sha256": "b0b0ebbf91ac899569c0634939bf1ef51b744ff1fb423b6f67d489c7941cec09",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/topology-43-bar.png",
+      "bytes": 26168,
+      "sha256": "624b1e5127902640488a0ee58d8acaab568bd4c35dfc09bb4e5c8bebfc216119",
+      "role": "historical_research"
+    },
+    {
+      "path": "交接报告/assets/topology-43-standard.png",
+      "bytes": 23786,
+      "sha256": "b8a34ab2e7c020f7d78de07cfd1b801334d369e452362005e3b72508f0f9aed7",
+      "role": "historical_research"
+    },
+    {
+      "path": "项目记忆/仓库配置与跨电脑接续说明.md",
+      "bytes": 4306,
+      "sha256": "c03e6759076f67d56bd7dc511607b676dd83e572f36940a549827351d6c11b40",
+      "role": "agent_memory"
+    },
+    {
+      "path": "项目记忆/仓库状态.json",
+      "bytes": 835,
+      "sha256": "e99fb2b009cf4ca036070ce1ffec0ac9415967b87f8ed418285d21862fb97647",
+      "role": "agent_memory"
+    },
+    {
+      "path": "项目记忆/决策与口径演变.md",
+      "bytes": 3909,
+      "sha256": "e18ae75eb3f26ff14eb9823fb999795f3cc4165f52c13254de64e55434104308",
+      "role": "agent_memory"
+    },
+    {
+      "path": "项目记忆/配置基线与待核实项.md",
+      "bytes": 4821,
+      "sha256": "fe76ce1e919de1c588109d55e97f1c3ba19cd789395fe906085f429f717ebc63",
+      "role": "agent_memory"
+    },
+    {
+      "path": "项目记忆/项目长期记忆.md",
+      "bytes": 6200,
+      "sha256": "9e5b5766e30b8dda65e130f66603e8ba47fa57f21f459282f8bb376b73a5d266",
+      "role": "agent_memory"
+    },
+    {
+      "path": "项目记忆/资料索引与版本关系.md",
+      "bytes": 5694,
+      "sha256": "f5135912fb49bf5f09961c7b582fc2de2f232bad0e14380e1a36da783866a0b7",
+      "role": "agent_memory"
+    },
+    {
+      "path": "项目记忆/V2现存Word文字快照_20261026.md",
+      "bytes": 53221,
+      "sha256": "a53a1f16343854df88ae2760b584b188b87e44195408cfe11fe10fb3ec4e6452",
+      "role": "agent_memory"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 3172,
+      "sha256": "0bf716378c9d1430b88061b5ac1b73fe6f5ebed45f60bb227849b42ecc4b6aa3",
+      "role": "repository_entry"
+    },
+    {
+      "path": "HANDOFF.md",
+      "bytes": 4095,
+      "sha256": "2a277bf38d83562e32dd8a415712c0f1ff90f2955189b9a173b43976d3f11339",
+      "role": "repository_entry"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2227,
+      "sha256": "1ee0e324d53eca695b9be2d5da83d56e33c61e207c5ecc56d3292d2de6029ea1",
+      "role": "repository_entry"
+    },
+    {
+      "path": "tools/extract_docx_snapshot.py",
+      "bytes": 3915,
+      "sha256": "ad3c818ae0fe98ab985e8b0c839806e57d17bf59b6456affb11fe482c07643a7",
+      "role": "read_only_audit_tool"
+    },
+    {
+      "path": "tools/project_audit.py",
+      "bytes": 4964,
+      "sha256": "d4b43238e9ab1df138e5fb321acc9ee8421a415710a4072869e04192c1c4bf90",
+      "role": "read_only_audit_tool"
+    }
+  ]
+}
